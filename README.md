@@ -51,13 +51,6 @@ Conception et implémentation d’une base de données pour gérer les réservat
 🔹 **Site de gestion de tournoi PES**  
 Plateforme web permettant l’inscription de joueurs, la gestion des matchs et l’affichage des résultats.
 
----
-
-## 📊 Statistiques GitHub
-
-![Stats GitHub](https://github-readme-stats.vercel.app/api?username=PrinceKdos&show_icons=true&theme=tokyonight)
-
-![Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=PrinceKdos&layout=compact&theme=tokyonight)
 
 ---
 
