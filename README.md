@@ -1,4 +1,4 @@
-# 👋 Bonjour, je suis Koffi Dossa
+# 👋 Bonjour, je suis 
 
 🎓 Étudiant en **Systèmes Informatiques et Logiciels**  
 💻 Développeur logiciel | Maintenance informatique  
